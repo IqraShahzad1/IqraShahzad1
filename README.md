@@ -2,7 +2,7 @@
 <div align="center" style="text-align:center">
     <a href="#" onclick="return false;">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=crankswagon&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
-            alt="crankswagon's stats">
+            alt="Iqra Shahzad's stats">
     </a>
     <a href="#" onclick="return false;">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crankswagon&theme=vue&background=0000&hide_border=true"
