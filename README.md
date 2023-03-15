@@ -9,7 +9,7 @@
             alt="crankswagon's commit streak">
     </a>
     <a href="#" onclick="return false;">
-        <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crankswagon&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
+        <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraShahzad1&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
             alt="crankswagon's language stats">
     </a>
     <br></br>
