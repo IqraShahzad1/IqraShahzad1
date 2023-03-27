@@ -1,16 +1,16 @@
 
 <div align="center" style="text-align:center">
     <a href="#" onclick="return false;">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=crankswagon&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=IqraShahzad1&show_icons=true&theme=vue&bg_color=0000&count_private=true&hide_border=true"
             alt="Iqra Shahzad's stats">
     </a>
     <a href="#" onclick="return false;">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=crankswagon&theme=vue&background=0000&hide_border=true"
-            alt="crankswagon's commit streak">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=IqraShahzad1&theme=vue&background=0000&hide_border=true"
+            alt="IqraShahzad1's commit streak">
     </a>
     <a href="#" onclick="return false;">
         <img width="35%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraShahzad1&layout=compact&bg_color=0000&theme=vue&show_icons=true&locale=en&hide_border=true"
-            alt="crankswagon's language stats">
+            alt="IqraShahzad1's language stats">
     </a>
     <br></br>
     <div>
